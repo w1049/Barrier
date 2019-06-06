@@ -1,0 +1,16 @@
+[
+{
+  "modid": "zjypingzhang",
+  "name": "ZJYPingZhang",
+  "description": "PingZhang in 1.7.10",
+  "version": "1.1",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["1049344862"],
+  "credits": "Microsoft,Mojang",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
